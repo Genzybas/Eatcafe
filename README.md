@@ -2,7 +2,7 @@
 
 # Eatcafe Readme
 
-![EatCafe](images/eatcafe.PNG)
+![EatCafe](Images/eatcafe.PNG)
 
 
 Welcome to EatCafe, where culinary excellence meets a warm and inviting ambiance. At EatCafe, we're not just a dining destination; we're an experience crafted with passion, creativity, and a commitment to delivering exceptional flavors to your table.
